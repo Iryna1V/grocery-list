@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(195, 243, 227);
+  font-family: "Montserrat", sans-serif;
+}
+
+h1{
+  color: #12013a;
+}
+
+.App{
+  background-color: white;
+  min-height: 80vh;
+  width: 400px;
+  margin: 20px auto;
+}
+.crossed{
+  text-decoration: line-through 2px red;
+  background-color: rgba(221, 239, 224, 0.764);
+}
+ul,li {
+  list-style-type:none;
+  padding:10 px 30px;
+  margin:0;
+  
+}
+.container{
+  display:flex;
+  justify-content:center;
+}
+.add{
+  margin-top: 5px;
+  margin-bottom:5px;
+  background: rgb(54, 245, 28);
+}
+.delete{
+  background: red;
+  margin-top:5px;
+}
+.btn{
+  padding:10px;
+  border:none;
+  width:75%;
+  color:white;
+  font-size:16px;
+}
+input{
+  flex:1;
+  padding:8px;
+  margin:10px;
+}
+img{
+  border-radius:50%;
+  margin-top: 10px;
+}
+  .bag {
+  margin-right: 20px;
+  width: 30px;
+}
