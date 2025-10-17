@@ -15,5 +15,6 @@ You can add as many items as you wants and can also remove them.
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
-You should use comand in еру terminal:
+You should use comand in the terminal:
+
 npm run dev 
