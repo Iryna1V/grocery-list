@@ -2,15 +2,21 @@
 
 This is a simple React application that will help you don't forget what you need to buy from groceries!
 
-You can type what you needs to buy into the input field and press Add or hit Enter.
+## Functionalities:
 
-Click on the item from the list and it will be crossed out.
+- You can type what you needs to buy into the input field and press Add or hit Enter.
 
-You can add as many items as you wants and can also remove them.
+- Click on the item from the list and it will be crossed out.
+
+- You can add as many items as you wants and can also remove them.
+
+- Simple user interface. 
 
 ## Tech stack:
 
-React 19.0, Vite, CSS.
+- React 19.0
+- Vite
+- CSS.
 
 ## Run the application:
 
