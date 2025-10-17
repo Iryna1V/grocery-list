@@ -1,4 +1,4 @@
-## About this Project:
+## About Grocery List application:
 A simple application that will help you not to forget what you need to buy from groceries!
 
 ## This application was created with:
