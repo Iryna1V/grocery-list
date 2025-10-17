@@ -1,16 +1,18 @@
-# React + Vite
+## About this Project:
+A simple application that will help you not to forget what you need to buy from groceries!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This application was created with:
+React and JavaScript
 
-Currently, two official plugins are available:
+## For start application:
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You should use comand in еру terminal:
+npm run dev 
 
 ## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can type what you needs to buy into the input field and press Add or hit Enter.
+Once user submitted an item, he will see it appear as an entry.
+Click on the item and it will be crossed out.
+User can add as many items as he wants and can also remove them.
